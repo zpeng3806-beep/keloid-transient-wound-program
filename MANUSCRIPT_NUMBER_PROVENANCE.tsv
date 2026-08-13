@@ -1,0 +1,16 @@
+item	manuscript_value	frozen_source	status
+GSE241132_fibroblasts	12259	06_results/gateA/GATE_A_FINAL_REPORT.md	PASS
+Tier2_genes	3443	06_results/gateA/GATE_A_FINAL_REPORT.md	PASS
+robust_core_genes	2845	06_results/gateA/GATE_A_FINAL_REPORT.md	PASS
+D7_M3_FULL_genes	464	06_results/gateA/TWPS_SENSITIVITY_D7_M3_FULL.tsv	PASS
+GSE178411_early_minus_uninjured	1.3531231193; P=1.1138265848e-20	06_results/final_audit/MANUSCRIPT_PRIMARY_NUMBERS.tsv	PASS
+GSE178411_late_minus_early	-0.2792175693; P=0.0009934671266	06_results/spectrum/GSE178411_TWPS_REPORT.md	PASS
+GSE178411_continuous_time	-0.1512406348; CI=-0.1826561882,-0.1198250814; P=1.631859549e-14	06_results/spectrum/GSE178411_TWPS_REPORT.md	PASS
+Gate_B_primary	0.0941058537; g=0.8244348921; P=0.1818181818	06_results/gateB/corrected/GATE_B_REPORT_CORRECTED.md	PASS
+Gate_C_primary	0.9819741674; g=2.3104337; Cliff_delta=1; 9/9; P=0.10	06_results/final_audit/GATE_C_FINAL_AUDIT.md	PASS
+Spatial_D7_minus_Skin	1.2665727075; P=0.125	06_results/spatial/GSE241124_SPATIAL_TWPS_SUMMARY.tsv	PASS
+Spatial_D30_minus_D7	-0.5901723905; P=0.125	06_results/spatial/GSE241124_SPATIAL_TWPS_SUMMARY.tsv	PASS
+Spatial_median_rho	0.506221	06_results/spatial/GSE241124_SPATIAL_TWPS_REPORT.md	PASS
+HTS_minus_late	-0.8355435505; P=6.729052990e-13	06_results/final_audit/GSE178411_FINAL_AUDIT.md	PASS
+MAGMA_EUR	beta=-0.1048; P=0.90198	06_results/genetics/CORE100_PRIMARY_MAGMA_RESULT.tsv	PASS
+MAGMA_AFR	beta=-0.067519; P=0.78349	06_results/genetics/CORE100_PRIMARY_MAGMA_RESULT.tsv	PASS

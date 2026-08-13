@@ -1,0 +1,8 @@
+sample_id	GSM	donor_id	group	tissue	related_sample	included	reason
+keloid_1	GSM5494684	KELOID_1	keloid	keloid	NONE	YES	independent biological donor
+keloid_2	GSM5494685	KELOID_2	keloid	keloid	NONE	YES	independent biological donor
+keloid_3L	GSM5494686	KELOID_3	keloid	keloid	keloid_3R	YES	same biological donor as keloid_3R; summed before donor-level inference
+keloid_3R	GSM5494687	KELOID_3	keloid	keloid	keloid_3L	YES	same biological donor as keloid_3L; summed before donor-level inference
+scar_1	GSM5494688	SCAR_1	normal scar	normal scar	NONE	YES	independent biological donor
+scar_2	GSM5494689	SCAR_2	normal scar	normal scar	NONE	YES	independent biological donor
+scar_3	GSM5494690	SCAR_3	normal scar	normal scar	NONE	YES	independent biological donor

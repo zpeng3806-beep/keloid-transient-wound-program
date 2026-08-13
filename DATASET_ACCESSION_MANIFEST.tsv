@@ -1,0 +1,9 @@
+accession	role	modality	biological_n	public_source	input_expected_by_scripts
+GSE241132	normal-wound discovery	single-cell RNA-seq	3 donors	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241132	cell metadata plus per-sample raw matrix/barcode/feature files
+GSE113619	paired longitudinal keloid-prone validation	bulk RNA-seq	12 subjects (8 keloid-prone; 4 healthy)	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113619	official normalized expression matrix plus final sample map and frozen gene annotation
+GSE181316	established keloid versus normal-scar replication	single-cell RNA-seq	6 donors (3 versus 3)	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181316	seven raw sparse UMI matrices with barcode and feature files
+GSE178411	patient-aware wound/scar spectrum validation	bulk RNA-seq	75 patients	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178411	raw count matrix plus frozen record/patient-state metadata
+GSE241124	normal-wound spatial confirmation	10x Visium spatial transcriptomics	4 donors	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241124	16 slide H5 count matrices plus spatial-position archives and frozen slide map
+GCST90652488	European-ancestry keloid genetic boundary	GWAS summary statistics	N=1282582	https://www.ebi.ac.uk/gwas/studies/GCST90652488	harmonised GWAS-SSF summary statistics
+GCST90652489	African-ancestry keloid genetic boundary	GWAS summary statistics	N=139538	https://www.ebi.ac.uk/gwas/studies/GCST90652489	harmonised GWAS-SSF summary statistics
+

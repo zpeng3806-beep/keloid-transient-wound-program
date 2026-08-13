@@ -1,0 +1,6 @@
+item	original_value	corrected_value	status
+sample_map_sha256	cc75dddda0a75df0aa1608b320e274f8b06e9195892869c3411112d842443347	cc75dddda0a75df0aa1608b320e274f8b06e9195892869c3411112d842443347	IDENTICAL
+paired_subject_n	12	12	IDENTICAL
+keloid_prone_n	8	8	IDENTICAL
+healthy_n	4	4	IDENTICAL
+included_biological_sample_rows	24	24	IDENTICAL

@@ -1,0 +1,7 @@
+panel	dataset	source_file	allowed	claim	key_boundary	strength
+A	synthesis	06_results/final_audit/CLAIM_STRENGTH_MATRIX.tsv	YES	TWPS identifies a normal-wound transient fibroblast program	derived in 3 donors only	STRONG
+A	synthesis	06_results/final_audit/CLAIM_STRENGTH_MATRIX.tsv	YES	TWPS shows longitudinal support in keloid-prone wound response	95% CI crosses zero; exact P=0.181818	MODERATE
+A	synthesis	06_results/final_audit/CLAIM_STRENGTH_MATRIX.tsv	YES	TWPS differentiates established keloid from normal scar	n=3 vs 3; exact P=0.1 and Hedges-g CI unstable	STRONG_DIRECTIONAL_SMALL_N
+A	synthesis	06_results/final_audit/CLAIM_STRENGTH_MATRIX.tsv	NO	TWPS persists universally across pathological scars	HTS vs late is contradictory	NOT_SUPPORTED
+A	synthesis	06_results/final_audit/CLAIM_STRENGTH_MATRIX.tsv	NO	TWPS has independent spatial replication	2 of 4 spatial donors overlap discovery	NOT_SUPPORTED_AS_INDEPENDENT
+A	synthesis	06_results/final_audit/CLAIM_STRENGTH_MATRIX.tsv	NO	TWPS is genetically anchored for keloid susceptibility	EUR/AFR competitive MAGMA tests negative	NOT_SUPPORTED

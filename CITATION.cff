@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the associated manuscript."
+title: "Code and reproducibility resources for a normal-wound-derived transient fibroblast program in wound repair and keloid"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - given-names: Peng
+    family-names: Zheng
+  - given-names: Qiang
+    family-names: Wang
+  - given-names: Yuanyuan
+    family-names: Yang
+  - given-names: Liping
+    family-names: Zhao
+preferred-citation:
+  type: article
+  title: "A normal-wound-derived transient fibroblast program links physiological repair dynamics to keloid-prone wound responses and established keloid"
+  authors:
+    - given-names: Peng
+      family-names: Zheng
+    - given-names: Qiang
+      family-names: Wang
+    - given-names: Yuanyuan
+      family-names: Yang
+    - given-names: Liping
+      family-names: Zhao

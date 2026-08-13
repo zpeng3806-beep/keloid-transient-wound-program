@@ -1,0 +1,13 @@
+sample_id	donor	timepoint	n_fibroblast_cells	input_type	low_cell_count_warning
+PWH26D0	PWH26	Skin	724	raw integer UMI counts	NO
+PWH26D1	PWH26	D1	255	raw integer UMI counts	NO
+PWH26D7	PWH26	D7	920	raw integer UMI counts	NO
+PWH26D30	PWH26	D30	843	raw integer UMI counts	NO
+PWH27D0	PWH27	Skin	521	raw integer UMI counts	NO
+PWH27D1	PWH27	D1	497	raw integer UMI counts	NO
+PWH27D7	PWH27	D7	1992	raw integer UMI counts	NO
+PWH27D30	PWH27	D30	2096	raw integer UMI counts	NO
+PWH28D0	PWH28	Skin	907	raw integer UMI counts	NO
+PWH28D1	PWH28	D1	260	raw integer UMI counts	NO
+PWH28D7	PWH28	D7	909	raw integer UMI counts	NO
+PWH28D30	PWH28	D30	2335	raw integer UMI counts	NO
